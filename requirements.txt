@@ -1,0 +1,6 @@
+gpxpy
+geopy
+numpy
+pyproj
+osmnx
+argparse
